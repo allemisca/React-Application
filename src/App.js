@@ -7,7 +7,12 @@ function App() {
       <header className="App-header">
         <h1>Weather App</h1>
         <Weather />
+        <br />
       </header>
+
+      <div className="source-code">
+        <a href="#">Open-source code,</a> by Alexandra Misca
+      </div>
     </div>
   );
 }
