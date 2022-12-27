@@ -11,7 +11,10 @@ function App() {
       </header>
 
       <div className="source-code">
-        <a href="#">Open-source code,</a> by Alexandra Misca
+        <a href="https://github.com/allemisca/React-Application">
+          Open-source code,
+        </a>{" "}
+        by Alexandra Misca
       </div>
     </div>
   );
