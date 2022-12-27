@@ -10,6 +10,7 @@ export default function App() {
         <a
           href="https://github.com/allemisca/React-Application"
           target="_blank"
+          rel="noreferrer"
         >
           {" "}
           open-sourced.
